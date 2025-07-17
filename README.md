@@ -7,10 +7,6 @@ This repository contains SQL scripts for exploratory data analysis (EDA) of Zept
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Database Schema (DDL)](#database-schema-ddl)
-- [SQL Analysis Queries](#sql-analysis-queries)
-- [Setup and Usage](#setup-and-usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
